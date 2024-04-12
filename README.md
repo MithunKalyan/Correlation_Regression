@@ -23,7 +23,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![OUT3](https://github.com/MithunKalyan/Correlation_Regression/assets/148410106/853196e4-6ed9-4b89-ab5d-d405b4995846)
 
-# Result
+# Result:
+By using python programming to analyse given data using coeffificient of correlation and regression line is successfully executed.
 
-# Output 
